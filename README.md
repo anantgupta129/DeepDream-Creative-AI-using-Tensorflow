@@ -34,8 +34,8 @@ Normally when an image is feed to network depending on the problem we select a l
 SOME BEAUTIFUL WORKS OF DEEP DREAM
 ------
 <p float="left">
-  <img src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1465/1302697548279136403.png" alt="drawing" width="450" height="300">
-  <img src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1465/1302697548325886611.png" alt="drawing" width="450" height="300">
+  <img src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1465/1302697548279136403.png" alt="drawing" width="400" height="250">
+  <img src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1465/1302697548325886611.png" alt="drawing" width="400" height="250">
 </p>
 
 <img src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1315/1302697548458347155.png" alt="drawing" width="600" height="350">
@@ -52,13 +52,13 @@ IMPLEMENTATION
 In this project I have used **inception net and dense  net** to implement deepdream algorithm on two images belended togeather
 
 <p float="left">
-  <img src="eiffel.jpg" alt="drawing" width="450" height="400">
-  <img src="mars.jpg" alt="drawing" width="450" height="400">
+  <img src="eiffel.jpg" alt="drawing" width="400" height="350">
+  <img src="mars.jpg" alt="drawing" width="400" height="350">
 </p>
 
 **Blended image: (0.5)**
 
-<img src="img_0.jpg" alt="drawing" width="450" height="350">
+<img src="img_0.jpg" alt="drawing" width="400" height="350">
 
 Results
 ----
