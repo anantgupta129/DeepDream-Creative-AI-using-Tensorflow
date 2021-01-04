@@ -38,8 +38,10 @@ SOME BEAUTIFUL WORKS OF DEEP DREAM
   <img src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1465/1302697548325886611.png" alt="drawing" width="400" height="250">
 </p>
 
-<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1315/1302697548458347155.png" alt="drawing" width="600" height="350">
-<img src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1465/1302697548523125139.png" alt="drawing" width="600" height="350">
+<p float="left">
+  <img src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1315/1302697548458347155.png" alt="drawing" width="350" height="200">
+  <img src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1465/1302697548523125139.png" alt="drawing" width="350" height="200">
+</p>
 
 Dependencies
 ------
@@ -64,6 +66,16 @@ Results
 ----
 
 I have putted the results of dense net and incetion net in the video folder you can download to view it.
+
+I have also putted the videos on youtube, click on tumbnail to watch
+
+**Inception Dream**
+
+[![Inception](http://img.youtube.com/vi/a_9dF6UUPbI/0.jpg)](http://www.youtube.com/watch?v=a_9dF6UUPbI "Inception Net")
+
+**Dense Dream**
+
+[![Dense](http://img.youtube.com/vi/a_9dF6UUPbI/0.jpg)](http://www.youtube.com/watch?v=a_9dF6UUPbI "Dense Net")
 
 Refrences
 ----
