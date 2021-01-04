@@ -34,9 +34,10 @@ Normally when an image is feed to network depending on the problem we select a l
 SOME BEAUTIFUL WORKS OF DEEP DREAM
 ------
 <p float="left">
-  <img src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1465/1302697548279136403.png" alt="drawing" width="400" height="250">
-  <img src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1465/1302697548325886611.png" alt="drawing" width="400" height="250">
+  <img src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1465/1302697548279136403.png" alt="drawing" width="350" height="250">
+  <img src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1465/1302697548325886611.png" alt="drawing" width="350" height="250">
 </p>
+
 
 <p float="left">
   <img src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1315/1302697548458347155.png" alt="drawing" width="350" height="200">
